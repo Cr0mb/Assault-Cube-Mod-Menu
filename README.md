@@ -28,3 +28,6 @@ pip install pymem Pillow
 > Drag the window by clicking and dragging the canvas area.
 
 > Exit the application by clicking the "Exit" button at the bottom-right corner.
+
+
+![image](https://github.com/Cr0mb/Assault-Cube-Mod-Menu/assets/137664526/acd01c5e-c1dc-498b-ac16-ffa9658e2d30)
