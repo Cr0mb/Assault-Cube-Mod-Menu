@@ -31,3 +31,6 @@ pip install pymem Pillow
 
 
 ![image](https://github.com/Cr0mb/Assault-Cube-Mod-Menu/assets/137664526/acd01c5e-c1dc-498b-ac16-ffa9658e2d30)
+
+
+[Tutorial Video](https://www.youtube.com/watch?v=2cdIiomhBJY)
